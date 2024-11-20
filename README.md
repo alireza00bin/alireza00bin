@@ -12,7 +12,7 @@
 ## Hi There, I'm Alireza
 
 
-I am currently a B.Sc computer engineering student at Shahid Beheshti University, Tehran, Iran. My interest is in ```Machine Learning``` and ```Deep Learning``` topics.
+I am currently a M.s Data Science student at Tarbiat Modares University, Tehran, Iran. My interest is in ```Machine Learning``` and ```Deep Learning``` topics.
 
 
 # Languages & Technologies
